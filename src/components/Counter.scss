@@ -1,0 +1,81 @@
+.artBoard {
+  width: 257px;
+  height: 130px;
+}
+
+.small_rectangle {
+  width: 60px;
+  height: 56;
+}
+
+.rectangle {
+  width: 180px;
+  height: 56px;
+}
+
+.outer_pad {
+  padding-left: 38.5px;
+  padding-right: 38.5px;
+  padding-top: 37px;
+  padding-bottom: 37px;
+}
+
+.positive_sign {
+  width: 14px;
+  height: 29px;
+}
+
+.negative_sign {
+  width: 7px;
+  height: 29px;
+}
+
+.positive_sign_pad {
+  padding-left: 23px;
+  padding-right: 23px;
+  padding-top: 14px;
+  padding-bottom: 13px;
+}
+
+.negative_sign_pad {
+  padding-left: 26px;
+  padding-right: 27px;
+  padding-top: 14px;
+  padding-bottom: 13px;
+}
+
+.counter_text {
+  width: 100px;
+  height: 16px;
+}
+
+.counter_text_pad {
+  padding-left: 42px;
+  padding-right: 115px;
+  padding-top: 103px;
+  padding-bottom: 11px;
+}
+
+.saving_text {
+  width: 113px;
+  height: 16px;
+}
+
+.saving_text_pad {
+  padding-left: 67px;
+  padding-right: 77px;
+  padding-top: 10px;
+  padding-bottom: 104px;
+}
+
+.loader_size {
+  width: 16px;
+  height: 16px;
+}
+
+.loader_pad {
+  padding-left: 41px;
+  padding-right: 200px;
+  padding-top: 11px;
+  padding-bottom: 103px;
+}
